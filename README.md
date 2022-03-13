@@ -1,2 +1,4 @@
 # projelerim
 okul
+sds
+sdsS
